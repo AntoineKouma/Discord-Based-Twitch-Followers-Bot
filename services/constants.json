@@ -1,0 +1,4 @@
+{
+    "GRAPHQL_URL": "https://gql.twitch.tv/gql",
+    "HELIX_BASE_URL": "https://api.twitch.tv/helix"
+}
